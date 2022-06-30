@@ -1,0 +1,15 @@
+{
+    "name": "unique-array-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.py",
+    "scripts": {
+        "test": "python test.py"
+    },
+    "author": "maweeks",
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "devDependencies": {
+        "prettier": "^2.7.1",
+        "sort-package-json": "^1.57.0"
+    }
+}
